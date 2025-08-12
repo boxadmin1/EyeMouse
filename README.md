@@ -1,6 +1,6 @@
 # EyeMouse – Webcam-Based Eye Tracking for Mouse Control
 
-**Author:** Evan O  
+**Author:** Boxadmin1
 
 **Description:**  
 EyeMouse is a Python-based system that lets you control your mouse cursor using **eye movements** detected via a standard webcam. It uses **MediaPipe FaceMesh** to track your irises, applies calibration, smoothing, and optional head pose compensation, and maps your gaze to screen coordinates.
