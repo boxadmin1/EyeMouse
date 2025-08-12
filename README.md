@@ -12,6 +12,7 @@ EyeMouse is a Python-based system that lets you control your mouse cursor using 
 - During calibration, **keep your head still** and **move only your eyes** to the target points.
 - Try to keep your face and laptop screen roughly aligned in a straight line with the webcam.
 - Position yourself so your head faces the webcam at about a **90-degree angle** for best tracking accuracy.
+- For best results, calibrate in a **well-lit room** with **no glare on your face or webcam**.
 
 ---
 
