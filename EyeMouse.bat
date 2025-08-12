@@ -3,7 +3,7 @@ title Eye Tracker Launcher
 
 echo -----------------------------------------------
 echo Project: EyeMouse
-echo Created by Evan O
+echo Created by Boxadmin1
 echo Warning! This program accesses your camera.
 echo It will install required Python packages if needed.
 echo -----------------------------------------------
@@ -28,3 +28,4 @@ if "%choice%"=="1" (
 )
 
 pause
+
